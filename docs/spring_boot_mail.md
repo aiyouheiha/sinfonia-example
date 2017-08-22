@@ -1,4 +1,6 @@
-# spring_boot_mail
+# Sending Email via Spring Boot
+
+- [Back to Index](https://aiyouheiha.github.io/)
 
 ----------------------------------------
 
