@@ -1,6 +1,6 @@
 # Sending Email via Spring Boot
 
-- [Back to Index](https://aiyouheiha.github.io/)
+- [Back to Home Page](https://aiyouheiha.github.io/)
 
 ----------------------------------------
 
